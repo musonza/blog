@@ -12,7 +12,7 @@ theme = "minimal"
     backgroundColor = "white"
     font = "Quicksand" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
+    #highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
