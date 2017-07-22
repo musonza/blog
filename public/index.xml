@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tinashe Musonza</title>
+    <link>https://musonza.github.io/</link>
+    <description>Recent content on Tinashe Musonza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://musonza.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Implement the Commanding Pattern</title>
+      <link>https://musonza.github.io/post/command-pattern/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://musonza.github.io/post/command-pattern/</guid>
+      <description>What is the Command Pattern Wikipedia definition:
+ In object oriented programming, the command pattern is a behavioral design pattern in which an object is used to encapsulate all information needed to perform an action or trigger an event at a later time.
+ The information that is encapsulated in a commanding object includes the method name, the object that owns the method and values for the method parameters. So in other words the commanding object will have enough information to carry out an action immediately or later on.</description>
+    </item>
+    
+  </channel>
+</rss>
